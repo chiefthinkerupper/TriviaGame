@@ -2,18 +2,16 @@
 
 ### Overview
 
-In this assignment, You'll create a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. Be sure to layout this app with valid HTML and stylish CSS.
+In this assignment, I've created a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. I've made sure to layout this app with valid HTML and stylish CSS.
 
 ### Option One: Basic Quiz (Timed Form)
 
 ![Basic](assets/images/1-basic.jpg)
 
-* You'll create a trivia form with multiple choice or true/false options (your choice).
+* I've created a trivia form with multiple choice or true/false options.
 
-* The player will have a limited amount of time to finish the quiz. 
+* The player has a limited amount of time to finish the quiz. 
 
-* The game ends when the time runs out. The page will reveal the number of questions that players answer correctly and incorrectly.
+* The game ends when the time runs out. The page will reveal the number of questions that the player answer correctly and incorrectly.
 
-* Don't let the player pick more than one answer per question.
-
-* Don't forget to include a countdown timer.
+* The player can pick no more than one answer per question.
