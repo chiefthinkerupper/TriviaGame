@@ -8,9 +8,9 @@ In this assignment, I've created a Trivia game using JavaScript for the logic an
 
 ![Basic](assets/images/1-basic.jpg)
 
-* I've created a trivia form with multiple choice or true/false options.
+* I've created a trivia form with multiple choice options.
 
-* The player has a limited amount of time to finish the quiz. 
+* The player has a limited amount of time (60 seconds) to finish the quiz. 
 
 * The game ends when the time runs out. The page will reveal the number of questions that the player answer correctly and incorrectly.
 
